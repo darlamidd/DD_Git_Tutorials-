@@ -1,0 +1,19 @@
+1. Go to Github.com
+2. Create a new repository
+3. Go to folder in local machine where you want to push files from
+4. Open git bash using right click 
+5. Type git init command to start git 
+
+There are 3 phases after this:
+ Phase 1: Adding files
+
+6. git add . (to add all files) or use git add filename (add single file)
+
+Commit 
+
+7. git commit -m "Add comment"
+8. git remote add origin url of github repository 
+
+Push
+
+9. git push -u origin main 
