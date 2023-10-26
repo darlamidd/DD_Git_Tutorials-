@@ -12,8 +12,9 @@ There are 3 phases after this:
 Commit 
 
 7. git commit -m "Add comment"
-8. git remote add origin url of github repository 
+8. git branch -M main
+9. git remote add origin url of github repository (Dont forget to add .git at the end of url)
 
 Push
 
-9. git push -u origin main 
+10. git push -u origin main 
